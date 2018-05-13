@@ -25,3 +25,34 @@
 - server based -- google analytics 
 - big data source-- hadoop big query 
 
+
+# Data Terminology
+- connection data source 
+- Dimensions  (attributes) context level detail
+- Hierarchy -- drill down attributes
+- Calculation -- equal sign indicator
+- Measures -- aggregates 
+
+## Dimensions 
+- String Numbers DateTime Groups(what if analysis) Bins(histogram range of values)
+
+## Measures
+- numbers calculations generated fields 
+
+## Sets and Parameters 
+- collection of dimension members 
+- Parameters - independent variable that allow user input
+
+# View Terminology 
+- Marks -- something drawn on the page
+- Marks Card or shelf 
+-- Color
+-- Size
+-- label
+-- detail
+-- tooltip
+
+- filters 
+- pills (blue/green) 
+- blue pills are discrete no relation , levels of detail
+- gree pills are continuous
